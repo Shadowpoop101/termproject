@@ -1,0 +1,21 @@
+.h1 {
+    animation-name: blink-animation;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes blink-animation {
+    0% {
+        color: #0112ff;
+    }
+    40% {
+        color: #01fbff;
+    }
+    80% {
+        color: #05ff01; 
+    }
+   100% {
+        color: #eaff01; 
+   }
+}

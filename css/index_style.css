@@ -1,0 +1,40 @@
+.h1{
+    border: 5px solid #01fbff;
+    top: -600px;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    font-size: 125px;
+    position: relative;
+    color: #01fbff;
+
+}
+
+
+
+.navbar{
+    background-color: rgba(255, 255, 255, 0);
+    border: solid #01fbff;
+    font-size: 20px;
+    position: sticky;
+    top: 0px;
+    color: red;
+
+
+}
+
+.info{
+    text-align: center;
+    font-size:  30px;
+    font-weight:bolder;
+    position: relative;
+    top: -300px;
+    
+
+}
+
+.background img{
+    text-align: center;
+    width: 1250px;
+
+}
